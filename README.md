@@ -1,2 +1,2 @@
 # coffee-shop
-Responsive coffee shop website using HTML, CDSS,JS
+Responsive coffee shop website using HTML, CSS,JS
